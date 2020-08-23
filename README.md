@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="animatio.gif" alt="Abbas's intro">
+	<img src="animation.gif" alt="Abbas's intro">
 </div>
 
 ## Stats
