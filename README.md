@@ -1,6 +1,5 @@
-<div align="center">
-	<img src="animation.gif" alt="Abbas's intro">
-</div>
+
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Abbaskt/Abbaskt/raw/master/animation.gif)
 
 ## Stats
 
